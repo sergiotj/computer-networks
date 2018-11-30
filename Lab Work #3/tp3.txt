@@ -1,0 +1,51 @@
+get 147
+
+1)
+mac origem
+b0:5a:da:dc:ba:3d
+
+mac destino
+00:0c:29:5e:69:ad
+
+2)
+sistemas n sabemos responder
+
+3)
+
+ipv4 (0x0800)
+
+4)
+53 bytes
+
+12%... pq o tamanho total � 422...
+
+5) FCS
+
+6)
+responde 207
+
+endere�o Vmware_5e:69:ad (00:0c:29:5e:69:ad
+
+7)
+
+o meu computador
+
+8)
+
+transport ethernet 2 onde est� encapsulado protocolo ip que por sua vez transporta o protocolo tcp onde est� o protocolo http
+
+9) depois
+
+10) 192.168.2.178
+
+fizemos para o pc do colega e para o site!
+
+ANALISE PARA COLEGA
+
+endere�o origem: meu pc
+endere�o destino: broadcast
+
+11) 
+
+no site diz q 1 � request
+no site diz q 2 � reply
